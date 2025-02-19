@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ссылки</title>
+</head>
+<body>
+<h1>Ссылки</h1>
+<h2>Внешняя ссылка</h2>
+<a href="http://google.com">Google</a>
+<a href="http://ya.ru">Yandex</a>
+
+<h2>Ссылка на почту</h2>
+<a href="mailto:kasiet_tokbaeva7@mail.ru">kasiet_tokbaeva7@mail.ru</a>
+
+<h2>Ссылка на телефон</h2>
+<a href="tel:+996500925259">+996 500 92-52-59</a>
+    
+</body>
+</html>
