@@ -8,14 +8,20 @@
 <body>
 <h1>Ссылки</h1>
 <h2>Внешняя ссылка</h2>
-<a href="http://google.com">Google</a>
-<a href="http://ya.ru">Yandex</a>
+<a href="http://google.com" target="_blank">Google</a>
+<a href="http://ya.ru" target="_blank">Yandex</a>
+
+<h2>Ссылки на статьи</h2>
+<a href="https://ru.wikipedia.org/wiki/BTS" target="_self">BTS</a>
 
 <h2>Ссылка на почту</h2>
 <a href="mailto:kasiet_tokbaeva7@mail.ru">kasiet_tokbaeva7@mail.ru</a>
 
 <h2>Ссылка на телефон</h2>
 <a href="tel:+996500925259">+996 500 92-52-59</a>
+
+<h2>Ссылка на скачивание файла</h2>
+<a href="Hyundai.pdf" download>скачать файл</a>
     
 </body>
 </html>
