@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Формы</title>
+</head>
+<body>
+<h1>Формы</h1>
+<p>
+    <input type="name" name="username" id="username">
+    <label for="username">Имя пользователя</label>
+</p>
+<p>
+    <input type="email" name="useremail" id="useremail">
+    <label for="useremail">электронная почта</label>
+</p>
+<p>
+    <input type="number" name="userage" id="userage">
+    <label for="userage">Возраст</label>
+</p>
+<p>
+    <input type="tel" name="userphone" id="userphone">
+    <label for="userphone">Телефон</label>
+</p>
+<p>
+    <input type="password" name="userpassword" id="userpassword">
+    <label for="userpassword">Пароль</label>
+</p>
+    
+</body>
+</html>
