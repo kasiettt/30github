@@ -27,6 +27,6 @@
     <input type="password" name="userpassword" id="userpassword">
     <label for="userpassword">Пароль</label>
 </p>
-    
+<button type="button">Отправить</button>    
 </body>
 </html>
