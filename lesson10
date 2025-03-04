@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CloudBudget</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+  <div class="top-screen">
+    <header class="header">
+      <div class="container">
+        <nav class="header-nav">
+          <div class="logo">
+            <a class="logo-link" href="#">
+              <img class="logo-img" src="images/logo.png" alt="CloudBudget">
+            </a>
+          </div>
+          <ul class="menu">
+            <li class="menu-item"><a class="menu-link" href="#">Overview</a></li>
+            <li class="menu-item"><a class="menu-link" href="#">Features</a></li>
+            <li class="menu-item"><a class="menu-link" href="#">Technology</a></li>
+            <li class="menu-item"><a class="menu-link" href="#">Sign up</a></li>
+          </ul>
+          <div class="user-block">
+            <a class="user-login-link" href="#">Login</a>
+          </div>
+        </nav>
+
+        <div class="hero">
+          <h1 class="hero-title">CloudBudget</h1>
+          <p class="hero-description">
+            Cloud budget management for everyone. Only €69.95 a Month After a 7 Day Trial of
+            Up to €4.99
+          </p>
+          <a class="hero-btn" href="#">Sign up</a>
+        </div>
+      </div>
+    </header>
+  </div>
+
+</body>
+
+</html>
