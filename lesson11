@@ -45,7 +45,7 @@
     padding: 20px;
   }
   .note strong {
-    color: white;
+    color: black;
   }
   article {
     max-width: 760px;
